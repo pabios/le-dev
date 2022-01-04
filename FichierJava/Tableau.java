@@ -1,37 +1,4 @@
-# le-dev
-<details>
-  <summary>ScreenShot Qt project c++</summary> 
-  </details>
-  <img src="./presentation/capture/1.png" name="image-name">
-  <img src="./presentation/capture/2.png" name="image-name">
-  <img src="./presentation/capture/3.png" name="image-name">
-
-# Algorithme et structure de donnee 
-## Languages
- * c++ 
- * Qt (c++) pour l'interface grafique 
-## L'algorithme 
- * en java 
-### Specification
-inserer et verifier si les elements de ce tableau sont tous consequtif
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://pabiosoft.com)
-Tableau consecutif
-Position | #1 | #2 | #3 | #4 | #5 | -- | -- | -- | -- | -- | L-1
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-element | 1 | 2 | 3 | 4 | 5 | 6 | -- |-- | val-1 | val | t(L-1)
-
-Tableau non consecutif
-Position | #1 | #2 | #3 | #4 | #5 | -- | -- | -- | -- | -- | L-1
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-element | 1 | 1 | 3 | 4 | 5 | 6 | -- |-- | val-1 | val | t(L-1)
-
-- ✨Magic ✨
-
-
-## Alors Ecrivons  cet algorithme en Java 
-```java
- import java.util.Scanner;
+import java.util.Scanner;
 
 
 class Tableau{
@@ -119,18 +86,3 @@ public static void main(String[] args) {
 }
      
  
-    
-     
-    
-    
-     
- 
-```
-## Outils
-Mac OS 
-
-| IDE | README |
-| ------ | ------ |
-| xCode | [Pour le project c++] |
-| C lION | [ egaillement c++ ] |
-| Qt Creator | [ pour le projet avec interface grafique] |
